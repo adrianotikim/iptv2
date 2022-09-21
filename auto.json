@@ -1,0 +1,134 @@
+[
+	   {
+	 	name: 'Paramount',
+		url: 'https://cdnfe1.azureedge.net/hls1/paramount.m3u8?wmsAuthSign='
+	   },
+	   {
+		name: 'Syfy',
+	   	url: 'https://cdnfe1.azureedge.net/hls1/syfy.m3u8?wmsAuthSign='
+	   },
+	   {
+		name: 'Studio Universal',
+		url: 'https://cdnfe1.azureedge.net/hls1/studiouniversal.m3u8?wmsAuthSign=&i=studiouniversal'
+	   },
+	   {
+		name: 'Space',
+		url: 'https://cdnfe1.azureedge.net/hls1/space.m3u8?wmsAuthSign=&i=space'
+	   },
+	   {
+		name: 'Fx',
+		url: 'https://cdnfe1.azureedge.net/hls1/fx.m3u8?wmsAuthSign=&i=fx'
+	   },
+	   {
+		name: 'Warner',
+		url: 'https://cdnfe1.azureedge.net/hls1/warner.m3u8?wmsAuthSign=&i=warner'
+	   },
+	   {
+		name: 'Universal (Ou da ou desce)',
+		url: 'https://cdnfe1.azureedge.net/hls1/universal.m3u8?wmsAuthSign=&i=universal'
+	   },
+	   {
+		name: 'TNT Series',
+		url: 'https://cdnfe1.azureedge.net/hls1/tntseries.m3u8?wmsAuthSign=&i=tntseries'
+	   },
+	   {
+		name: 'TNT',
+		url: 'https://cdnfe1.azureedge.net/hls1/tnt.m3u8?wmsAuthSign=&i=tnt'
+	   },
+	   {
+		name: 'Telecine Cult',
+		url: 'https://cdnfe1.azureedge.net/hls1/telecinecult.m3u8?wmsAuthSign=&i=telecinecult'
+	   },
+	   {
+		name: 'Telecine Pipoca',
+		url: 'https://cdnfe1.azureedge.net/hls1/telecinepipoca.m3u8?wmsAuthSign=&i=telecinepipoca'
+	   },
+	   {
+		name: 'Telecine Fun',
+		url: 'https://cdnfe1.azureedge.net/hls1/telecinefun.m3u8?wmsAuthSign=&i=telecinefun'
+	   },
+	   {
+		name: 'Telecine Touch',
+		url: 'https://cdnfe1.azureedge.net/hls1/telecinetouch.m3u8?wmsAuthSign=&i=telecinetouch'
+	   },
+	   {
+		name: 'Telecine Action',
+		url: 'https://cdnfe1.azureedge.net/hls1/telecineaction.m3u8?wmsAuthSign=&i=telecineaction'
+	   },
+	   {
+		name: 'Telecine Premium',
+		url: 'https://cdnfe1.azureedge.net/hls1/telecinepremium.m3u8?wmsAuthSign=&i=telecinepremium'
+	   },
+	   {
+		name: 'TCM',
+		url: 'https://cdnfe1.azureedge.net/hls1/tcm.m3u8?wmsAuthSign=&i=tcm'
+	   },
+	   {
+		name: 'Sony',
+		url: 'https://cdnfe1.azureedge.net/hls1/sony.m3u8?wmsAuthSign=&i=sony'
+	   },
+	   {
+		name: 'Megapix',
+		url: 'https://cdnfe1.azureedge.net/hls1/megapix.m3u8?wmsAuthSign=&i=megapix'
+	   },
+	   {
+		name: 'Max Up',
+		url: 'https://cdnfe1.azureedge.net/hls1/maxup.m3u8?wmsAuthSign=&i=maxup'
+	   },
+	   {
+		name: 'Max Prime',
+		url: 'https://cdnfe1.azureedge.net/hls1/maxprime.m3u8?wmsAuthSign=&i=maxprime'
+	   },
+	   {
+		name: 'Max',
+		url: 'https://cdnfe1.azureedge.net/hls1/max.m3u8?wmsAuthSign=&i=max'
+	   },
+	   {
+		name: 'HBO Signature',
+		url: 'https://cdnfe1.azureedge.net/hls1/hbosignature.m3u8?wmsAuthSign=&i=hbosignature'
+	   },
+	   {
+		name: 'HBO Plus',
+		url: 'https://cdnfe1.azureedge.net/hls1/hboplus.m3u8?wmsAuthSign=&i=hboplus'
+	   },
+	   {
+		name: 'HBO Family',
+		url: 'https://cdnfe1.azureedge.net/hls1/hbofamily.m3u8?wmsAuthSign=&i=hbofamily'
+	   },
+	   {
+		name: 'HBO 2',
+		url: 'https://cdnfe1.azureedge.net/hls1/hbo2.m3u8?wmsAuthSign=&i=hbo2'
+	   },
+	   {
+		name: 'HBO',
+		url: 'https://cdnfe1.azureedge.net/hls1/hbo.m3u8?wmsAuthSign=&i=hbo'
+	   },
+	   {
+		name: 'Fox Premium 2',
+		url: 'https://cdnfe1.azureedge.net/hls1/foxpremium2.m3u8?wmsAuthSign=&i=foxpremium2'
+	   },
+	   {
+		name: 'Fox Premium 1',
+		url: 'https://cdnfe1.azureedge.net/hls1/foxpremium1.m3u8?wmsAuthSign=&i=foxpremium1'
+	   },
+	   {
+		name: 'Fox',
+		url: 'https://cdnfe1.azureedge.net/hls1/fox.m3u8?wmsAuthSign=&i=fox'
+	   },
+	   {
+		name: 'Cinemax',
+		url: 'https://cdnfe1.azureedge.net/hls1/cinemax.m3u8?wmsAuthSign=&i=cinemax'
+	   },
+	   {
+		name: 'ANX',
+		url: 'https://cdnfe1.azureedge.net/hls1/axn.m3u8?wmsAuthSign='
+	   },
+	   {
+		name: 'AMC',
+		url: 'https://cdnfe1.azureedge.net/hls1/amc.m3u8?wmsAuthSign='
+	   },
+	   {
+		name: 'A&E',
+		url: 'https://cdnfe1.azureedge.net/hls1/aie.m3u8?wmsAuthSign='
+	   }
+	]
